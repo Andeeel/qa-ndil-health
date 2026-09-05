@@ -1,4 +1,4 @@
-# 🌿 qandil Health (qH)
+# 🌿 qandil Health (qH) version 0.0.1
 
 > A modern, mobile-first health, workout, and wellness application engineered for iOS and Android. Designed to deliver an intuitive, privacy-focused experience for daily fitness management, biometric tracking, and personal growth.
 
